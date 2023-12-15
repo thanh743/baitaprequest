@@ -1,0 +1,8 @@
+Package: com.yourcompany.baitaplamrequestposttoserver
+Name: BaitapLamRequestPOstToserver
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: Mac
+Author: Mac
+Section: Utilities
